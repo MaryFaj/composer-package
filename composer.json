@@ -1,0 +1,16 @@
+{
+    "name": "mfatjanova/composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Mfatjanova\\ComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fatyanova.maria",
+            "email": "fatyanova.m@i20.team"
+        }
+    ],
+    "require": {}
+}
